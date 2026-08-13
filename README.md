@@ -98,3 +98,4 @@ kubectl scale deployment django-deployment -n django-app --replicas=5
 ```
 # K8s-Learnings
 # K8s-Learnings
+# K8s-Learnings
